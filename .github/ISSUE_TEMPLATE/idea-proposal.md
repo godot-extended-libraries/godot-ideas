@@ -7,12 +7,9 @@ assignees: ''
 
 ---
 
-The following questions are *optional* and reflect the ones in the official 
-[godot-proposals](https://github.com/godotengine/godot-proposals/issues/new/choose) 
-repository. Feel free to omit or add new sections as you see it fit.
+The following questions are *optional* and reflect the ones in the official [godot-proposals](https://github.com/godotengine/godot-proposals/issues/new/choose) repository. Feel free to omit or add new sections as you see it fit.
 
-You can also learn about [markdown syntax](https://www.markdownguide.org/basic-syntax/)
-to better structure your idea.
+You can also learn about [markdown syntax](https://www.markdownguide.org/basic-syntax/) to better structure your idea.
 
 ---
 
