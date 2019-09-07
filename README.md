@@ -5,7 +5,7 @@ This repository can be used as a starting point for creating new features and
 enhancements in [Godot Engine](https://github.com/godotengine/godot) by the means 
 of free community discussion.
 
-Ideas can be freely shared and discussed by opening issues in this repository and
+Ideas can be freely shared and discussed by [opening issues](https://github.com/Xrayez/godot-ideas/issues/new?assignees=&labels=&template=idea-proposal.md&title=) in this repository and
 contributing to the existing ones. Once an idea is considered complete on a conceptual 
 level and there's enough community interest, you can decide whether it's worth to 
 make an official and formal proposal to [godot-proposals](https://github.com/godotengine/godot-proposals)
