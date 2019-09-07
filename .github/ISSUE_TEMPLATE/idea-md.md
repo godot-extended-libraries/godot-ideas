@@ -1,6 +1,6 @@
 ---
-name: idea
-about: Suggest and discuss an idea to be implemented
+name: idea.md
+about: Suggest an idea for this project
 title: ''
 labels: ''
 assignees: ''

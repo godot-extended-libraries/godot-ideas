@@ -1,5 +1,5 @@
 ---
-name: idea
+name: Idea proposal
 about: Suggest and discuss an idea to be implemented
 title: ''
 labels: ''
