@@ -1,6 +1,10 @@
 Godot Improvement Ideas
 =======================
 
+![Number of open ideas pertaining to core development](https://img.shields.io/github/issues-raw/godot-community/godot-ideas/core?color=%23B5A224&label=core%20ideas)
+![Number of open ideas pertaining to C++ module development](https://img.shields.io/github/issues-raw/godot-community/godot-ideas/module?color=%234466ff&label=module%20ideas)
+![Number of open ideas pertaining to GDSCript and GDNative development](https://img.shields.io/github/issues-raw/godot-community/godot-ideas/plugin?color=%23965FE8&label=plugin%20ideas)
+
 This repository can be used as a starting point for creating new features and 
 enhancements in [Godot Engine](https://github.com/godotengine/godot) by the means 
 of free community discussion.
