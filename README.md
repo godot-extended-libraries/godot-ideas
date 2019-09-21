@@ -1,49 +1,35 @@
-Godot Improvement Ideas
-=======================
+Godot Ideas
+===========
 
-![Number of open ideas pertaining to core development](https://img.shields.io/github/issues-raw/godot-community/godot-ideas/core?color=%23B5A224&label=core%20ideas)
-![Number of open ideas pertaining to C++ module development](https://img.shields.io/github/issues-raw/godot-community/godot-ideas/module?color=%234466ff&label=module%20ideas)
-![Number of open ideas pertaining to GDSCript and GDNative development](https://img.shields.io/github/issues-raw/godot-community/godot-ideas/plugin?color=%23965FE8&label=plugin%20ideas)
+![Number of open ideas pertaining to core development](https://img.shields.io/github/issues-raw/godot-extended-libraries/godot-ideas/core?color=%23B5A224&label=core%20ideas)
+![Number of open ideas pertaining to C++ module development](https://img.shields.io/github/issues-raw/godot-extended-libraries/godot-ideas/module?color=%234466ff&label=module%20ideas)
+![Number of open ideas pertaining to GDSCript and GDNative development](https://img.shields.io/github/issues-raw/godot-extended-libraries/godot-ideas/plugin?color=%23965FE8&label=plugin%20ideas)
 
-This repository can be used as a starting point for creating new features and 
-enhancements in [Godot Engine](https://github.com/godotengine/godot) by the means 
-of free community discussion.
+### *Disclaimer*
 
-Ideas can be freely shared and discussed by [opening issues](https://github.com/Xrayez/godot-ideas/issues/new?assignees=&labels=&template=idea-proposal.md&title=) in this repository and
-contributing to the existing ones. Once an idea is considered complete on a conceptual 
-level and there's enough community interest, you can decide whether it's worth to 
-make an official and formal proposal to [godot-proposals](https://github.com/godotengine/godot-proposals)
-repository for it to be implemented in Godot Engine by the core contributors or
-interested volunteers.
+*If you want to suggest an idea which can be reviewed and implemented by core
+developers to be present directly in [Godot Engine](https://godotengine.org/), 
+please refer to official [godot-proposals](https://github.com/godotengine/godot-proposals) 
+repository and instructions. This repository cannot be seen as an official place to propose and discuss ideas.*
 
-#### Guides for Submitting an Idea
+## Description
 
-* There's a template for you to fill with the questions which reflect the ones in 
-the [godot-proposals](https://github.com/godotengine/godot-proposals) repository, 
-but they are optional and you are free to express your idea in any form regardless.
+This repository can be used to share and discuss ideas regarding module and plugin 
+development by the means of free community discussion, but also to potentially 
+discuss possible problems and hurdles associated with the engine which might be 
+controversial in nature.
 
-* Start small, and if you see that the idea starts to gain more interest by the 
-community, keep developing the idea until it's complete on a conceptual level by
-editing the original post.
+Ideas can be freely shared and discussed by 
+[opening issues](https://github.com/godot-extended-libraries/godot-ideas/issues/new?assignees=&labels=&template=idea-discussion.md&title=) 
+in this repository and contributing to the existing ones. Features that are 
+"nice-to-have" are as welcomed as "need-to-have", so please don't hesitate 
+to share your thoughts.
 
-* The idea can be linked to a real use-case, project, problem, task, obstacle, 
-goal etc. Features that are "need-to-have" are as welcomed as "nice-to-have" here.
+## Useful links
 
-* You are free to draw interest to your proposed idea by reaching out on the 
-community channels if you expect it to be approved and further implemented 
-in Godot Engine core, see [Community Channels](http://docs.godotengine.org/en/stable/community/channels.html).
+* [Godot Community Channels](http://docs.godotengine.org/en/stable/community/channels.html) - more places for discussion,
+* [Asset Library](https://docs.godotengine.org/en/latest/tutorials/assetlib/what_is_assetlib.html) - learn about Godot assets ecosystem.
+* [Plugins](https://docs.godotengine.org/en/latest/tutorials/plugins/index.html) -
+learn to create GDScript or GDNative plugins.
+* [Custom modules](https://docs.godotengine.org/en/latest/development/cpp/custom_modules_in_cpp.html) - learn about C++ module development.
 
-#### Guides for Submitting an Idea as an Official Proposal
-
-* Refer to [official instructions](https://github.com/godotengine/godot-proposals/blob/master/README.md).
-
-* If the idea can be implemented as a plugin or a module, it's unlikely that
-the Godot maintainers are going to accept the proposal. If that's the case, you 
-can at least hope that someone with enough skills can implement your idea as 
-a separate, independent solution.
-
-Also refer to:
-
-* [Asset Library](https://docs.godotengine.org/en/latest/tutorials/assetlib/what_is_assetlib.html)
-* [Plugins](https://docs.godotengine.org/en/latest/tutorials/plugins/index.html)
-* [Custom modules](https://docs.godotengine.org/en/latest/development/cpp/custom_modules_in_cpp.html)
