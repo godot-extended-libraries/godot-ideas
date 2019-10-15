@@ -1,16 +1,17 @@
 Godot Ideas
 ===========
 
-![Number of open ideas pertaining to core development](https://img.shields.io/github/issues-raw/godot-extended-libraries/godot-ideas/core?color=%23B5A224&label=core%20ideas)
-![Number of open ideas pertaining to C++ module development](https://img.shields.io/github/issues-raw/godot-extended-libraries/godot-ideas/module?color=%234466ff&label=module%20ideas)
-![Number of open ideas pertaining to GDSCript and GDNative development](https://img.shields.io/github/issues-raw/godot-extended-libraries/godot-ideas/plugin?color=%23965FE8&label=plugin%20ideas)
+[![Core ideas](https://img.shields.io/github/issues-raw/godot-extended-libraries/godot-ideas/core?color=%23B5A224&label=core%20ideas)](https://github.com/godot-extended-libraries/godot-ideas/issues?q=is%3Aissue+is%3Aopen+label%3Acore)
+[![Module ideas](https://img.shields.io/github/issues-raw/godot-extended-libraries/godot-ideas/module?color=%234466ff&label=module%20ideas)](https://github.com/godot-extended-libraries/godot-ideas/issues?q=is%3Aopen+is%3Aissue+label%3Amodule)
+[![Plugin ideas](https://img.shields.io/github/issues-raw/godot-extended-libraries/godot-ideas/plugin?color=%23965FE8&label=plugin%20ideas)](https://github.com/godot-extended-libraries/godot-ideas/issues?q=is%3Aopen+is%3Aissue+label%3Aplugin)
 
 ### *Disclaimer*
 
 *If you want to suggest an idea which can be reviewed and implemented by core
 developers to be present directly in [Godot Engine](https://godotengine.org/), 
 please refer to official [godot-proposals](https://github.com/godotengine/godot-proposals) 
-repository and instructions. This repository cannot be seen as an official place to propose and discuss ideas.*
+repository and instructions. This repository cannot be seen as an official place 
+to propose and discuss ideas.*
 
 ## Description
 
@@ -32,4 +33,3 @@ to share your thoughts.
 * [Plugins](https://docs.godotengine.org/en/latest/tutorials/plugins/index.html) -
 learn to create GDScript or GDNative plugins.
 * [Custom modules](https://docs.godotengine.org/en/latest/development/cpp/custom_modules_in_cpp.html) - learn about C++ module development.
-
