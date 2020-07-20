@@ -28,6 +28,7 @@ to share your thoughts.
 
 ## Useful links
 
+* [Godot Extended Libraries Discord](https://discord.gg/tm2ZcBU) - the official Discord chat server.
 * [Godot Community Channels](http://docs.godotengine.org/en/stable/community/channels.html) - more places for discussion,
 * [Asset Library](https://docs.godotengine.org/en/latest/tutorials/assetlib/what_is_assetlib.html) - learn about Godot assets ecosystem.
 * [Plugins](https://docs.godotengine.org/en/latest/tutorials/plugins/index.html) -
