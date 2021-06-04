@@ -1,10 +1,6 @@
 Godot Ideas
 ===========
 
-[![Core ideas](https://img.shields.io/github/issues-raw/godot-extended-libraries/godot-ideas/core?color=%23B5A224&label=core%20ideas)](https://github.com/godot-extended-libraries/godot-ideas/issues?q=is%3Aissue+is%3Aopen+label%3Acore)
-[![Module ideas](https://img.shields.io/github/issues-raw/godot-extended-libraries/godot-ideas/module?color=%234466ff&label=module%20ideas)](https://github.com/godot-extended-libraries/godot-ideas/issues?q=is%3Aopen+is%3Aissue+label%3Amodule)
-[![Plugin ideas](https://img.shields.io/github/issues-raw/godot-extended-libraries/godot-ideas/plugin?color=%23965FE8&label=plugin%20ideas)](https://github.com/godot-extended-libraries/godot-ideas/issues?q=is%3Aopen+is%3Aissue+label%3Aplugin)
-
 ### *Disclaimer*
 
 *If you want to suggest an idea which can be reviewed and implemented by core
@@ -21,7 +17,7 @@ discuss possible problems and hurdles associated with the engine which might be
 controversial in nature.
 
 Ideas can be freely shared and discussed by 
-[opening issues](https://github.com/godot-extended-libraries/godot-ideas/issues/new?assignees=&labels=&template=idea-discussion.md&title=) 
+[opening a discussion](https://github.com/godot-extended-libraries/godot-ideas/discussions/new) 
 in this repository and contributing to the existing ones. Features that are 
 "nice-to-have" are as welcomed as "need-to-have", so please don't hesitate 
 to share your thoughts.
