@@ -23,10 +23,6 @@ in this repository and contributing to existing ones. Features that are
 "nice-to-have" are as welcomed as "need-to-have", so please don't hesitate to
 share your thoughts.
 
-If you'd like to create a tracker for existing proposals and/or issues, please
-[open a new issue](https://github.com/godot-extended-libraries/godot-ideas/issues/new/)
-instead.
-
 ## Useful links
 
 * [Godot Extended Libraries Discord](https://discord.gg/tm2ZcBU) - the official Discord chat server.
