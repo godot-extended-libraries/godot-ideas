@@ -23,6 +23,11 @@ in this repository and contributing to existing ones. Features that are
 "nice-to-have" are as welcomed as "need-to-have", so please don't hesitate to
 share your thoughts.
 
+If you'd like to have something like this managed officially, please consider
+supporting the following Godot proposal:
+
+- https://github.com/godotengine/godot-proposals/issues/2069
+
 ## Useful links
 
 * [Godot Extended Libraries Discord](https://discord.gg/tm2ZcBU) - the official Discord chat server.
